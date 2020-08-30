@@ -13,6 +13,7 @@ li {
 <p>Display a list of links as a horizontal menu:</p>
 
 <ul>
+  <li><a href="/html/default.asp" target="_blank">HTML</a></li>
   <li><a href="/css/default.asp" target="_blank">CSS</a></li>
 </ul>
 
